@@ -1,11 +1,23 @@
 {
   "name": "cachekoro",
   "version": "1.0.1",
-  "description": "",
+  "description": " This is a small caching package that helps to store, retrive, create and delete cache on react applications",
   "main": "CacheKoro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cache json",
+    "cache data",
+    "cache",
+    "only cache",
+    "local cache",
+    "app cache",
+    "caching",
+    "small cache",
+    "key value cache",
+    "localstorage cache"
+  ],
   "author": "abdullahwins",
   "license": "ISC"
 }

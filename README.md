@@ -35,7 +35,7 @@ cache.set('key1', 'value1', 60);
 const value = cache.get('key1');
 console.log(value); // Output: 'value1'
 
-// Remove a value from the cache
+// Remove a value from the cache 
 cache.remove('key1');
 
 // Clear the entire cache
